@@ -20,9 +20,9 @@ sudo n <回车>
 
 
 
-![image-20220313182115015](/Users/dlydong/learn/pic-bed/img/image-20220313182115015.png)
+![image-20220313182115015](./assets/image-20220313182115015.png)
 
-![image-20220313182127150](/Users/dlydong/learn/pic-bed/img/image-20220313182127150.png)
+![image-20220313182127150](./assets/image-20220313182127150.png)
 
 # 查看当前Node版本号
 
@@ -32,17 +32,17 @@ node -v
 
 
 
-![image-20220313182227680](/Users/dlydong/learn/pic-bed/img/image-20220313182227680.png)
+![image-20220313182227680](./assets/image-20220313182227680.png)
 
-![image-20220313182307762](/Users/dlydong/learn/pic-bed/img/image-20220313182307762.png)
+![image-20220313182307762](./assets/image-20220313182307762.png)
 
-![image-20220313183244229](/Users/dlydong/learn/pic-bed/img/image-20220313183244229.png)
+![image-20220313183244229](./assets/image-20220313183244229.png)
 
-![image-20220313183256673](/Users/dlydong/learn/pic-bed/img/image-20220313183256673.png)
+![image-20220313183256673](./assets/image-20220313183256673.png)
 
 # 卸载指定Node版本号
 
-![image-20220313183511501](/Users/dlydong/learn/pic-bed/img/image-20220313183511501.png)
+![image-20220313183511501](./assets/image-20220313183511501.png)
 
 
 
@@ -52,7 +52,7 @@ node -v
 sudo n 12.20 
 ```
 
-![image-20220412100648629](/Users/dlydong/learn/pic-bed/img/image-20220412100648629.png)
+![image-20220412100648629](./assets/image-20220412100648629.png)
 
 
 

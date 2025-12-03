@@ -1,8 +1,4 @@
-# 配置
-
-
-
-## 00-set
+# 00-set
 
 [01基于n的管理Node版本工具.md](https://github.com/CloudDong0125/dong-study/blob/main/00_set/01基于n的管理Node版本工具.md)
 
@@ -12,12 +8,12 @@
 
 
 
-## HarmonyOS
+# HarmonyOS
 
-### 《AOYEXM》
+## 《AOYEXM》
 
 [用户首选项.md](https://github.com/CloudDong0125/dong-study/blob/main/HarmonyOS/AOYEXM/用户首选项.md)
 
-### 《Base》
+## 《Base》
 
 [数据持久化-用户首选项.md](https://github.com/CloudDong0125/dong-study/blob/main/HarmonyOS/Base/数据持久化-用户首选项.md)

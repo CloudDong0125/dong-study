@@ -14,6 +14,12 @@
 
 [用户首选项.md](https://github.com/CloudDong0125/dong-study/blob/main/HarmonyOS/AOYEXM/用户首选项.md)
 
+[样式代码的简单封装 AttributeModifier.md](https://github.com/CloudDong0125/dong-study/blob/main/HarmonyOS/AOYEXM/样式代码的简单封装 AttributeModifier.md)
+
+[绑定模态页面bindSheet-自定义底部-侧边SideBarContainer.md](https://github.com/CloudDong0125/dong-study/blob/main/HarmonyOS/AOYEXM/绑定模态页面bindSheet-自定义底部-侧边SideBarContainer.md)
+
+[tab栏和锚点滚动切换.md](https://github.com/CloudDong0125/dong-study/blob/main/HarmonyOS/AOYEXM/tab栏和锚点滚动切换.md)
+
 ## 《Base》
 
 [数据持久化-用户首选项.md](https://github.com/CloudDong0125/dong-study/blob/main/HarmonyOS/Base/数据持久化-用户首选项.md)
